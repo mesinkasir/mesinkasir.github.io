@@ -13,7 +13,6 @@ future: true
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%-d %b, %Y"
-  timezone: TIMEZONE
 
   # generate social links in footer
   social_links:
