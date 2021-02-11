@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://mesinkasir.github.io/</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/hardware/</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/app/</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/start.html</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/blog/</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/mesinkasir/2020/04/03/touchscreen.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/mesinkasir/2020/04/03/tablet.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/mesinkasir/2020/04/03/portable.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/mesinkasir/2020/04/03/mobile.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/alarm/2020/04/02/alarm.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/alatkasir.html</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/04/01/toko.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/04/01/resto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/officeapp/2020/04/01/office.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/25/webs.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/softwarekasir.html</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/softwarerestoran.html</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/pembukuankantor.html</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/07/05/restox.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/07/05/posx.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/06/12/dx.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/06/10/dx-resto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/06/05/zpos.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/06/04/vpos.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/06/03/zresto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/06/03/sipresto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/06/03/funrestoapp.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/sourcecode/2020/05/05/sourcecode.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/simple.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/onlinepos.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/light.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/ipos.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/hc.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/gratis.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/free.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/chrom.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/cabang.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/boost.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasitoko/2020/03/29/axc.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/uni.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/restosam.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/onlineresto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/noted.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/mresto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/03/28/boostresto.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/inventori/2020/03/27/simple.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/invoice/2020/03/27/next.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/akuntansi/2020/03/26/acc.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/25/static.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/20/flatfile.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/19/tokooonline-shop.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/19/dinamyc.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/18/blogger.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/website/2020/03/16/welcome-to-githuyb-jekyll.html</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/TOUCHSCREEN%20POS.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Mesin%20kasir%20tablet%20pos%20hybrid.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/mesin%20kasir%20portable%20terbaru.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Mobile%20POS%20on%20the%20Go.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/alarm%20security.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasirestoran/2020/06/03/zresto</loc>
+  <lastmod>2020-07-16T05:28:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Creative%20Of%20ART%20Web%20design%20Digital%20ART.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/menu-axcorapos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/menu-boosterpos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/menu-boosterpos-resto.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/menu-multipos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/AXCORAPOS.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/CHROMPOS%20retail.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Integrated%20pos.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/MULTIPOS%20OUTLET.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Boosterpos%20Retail%20Shop.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/HOCKEY%20POS.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/hockeysimple%20pos.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/LIGHT%20POS%20NEW%20FASHIONABLE%20POINT%20OF%20SALE.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Integrated%20Resto%20POS.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Boosterpos%20Resto%20App.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/MR.RESTO%20POS.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/SAMBA%20MESIN%20KASIR%20TOUCHSCREEN%20MURAH.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/noted%20resto%20pos%20app.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/flopos%20software%20restoran.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/next%20invoice%20online%20generation.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Invoice%20point%20of%20sale%20app.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/SIMPLE%20MANAGEMENT%20APP.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/digital%20Accounting.pdf</loc>
+  <lastmod>2020-07-16T05:28:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/cleanpos-opensource/</loc>
+  <lastmod>2019-12-16T15:40:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/posapp/</loc>
+  <lastmod>2020-04-13T20:05:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Creative%20Website%20ART.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/e-catalog/Blogger%20-%20Creative%20design%20pembuatan%20website.pdf</loc>
+  <lastmod>2020-07-16T05:28:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/axcorapos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/cinemateaser-axcorapos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/demo-video-axcorapos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/boosterpos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/cinemateaser-boosterpos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/demo-video-boosterpos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/boosterpos-resto.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/cinemateaser-boosterpos-resto.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/demo-video-boosterpos-resto.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/multipos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/cinemateaser-multipos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/aplikasi/demo-video-multipos.html</loc>
+  <lastmod>2020-04-02T08:50:22+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mesinkasir.github.io/posapp/main/images/AXCORAPOS%20Eng.pdf</loc>
+  <lastmod>2020-04-13T20:05:59+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+</urlset>

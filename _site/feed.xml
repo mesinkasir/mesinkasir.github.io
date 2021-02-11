@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-02-11T13:26:45+07:00</updated><id>/feed.xml</id><title type="html">MESIN KASIR</title><subtitle>Mesin kasir toko minimarket supermarket. Mesin kasir restoran cafe kuliner. Mesin kasir online.
+</subtitle><author><name>mesinkasir</name><email>hockeycorpmarketing@gmail.com</email></author><entry><title type="html">CMS Sekolah gratis untuk pembuatan website sekolah</title><link href="/cmssekolah/2021/01/05/cmssekolah.html" rel="alternate" type="text/html" title="CMS Sekolah gratis untuk pembuatan website sekolah" /><published>2021-01-05T00:00:00+07:00</published><updated>2021-01-05T00:00:00+07:00</updated><id>/cmssekolah/2021/01/05/cmssekolah</id><content type="html" xml:base="/cmssekolah/2021/01/05/cmssekolah.html">&lt;p&gt;&lt;a href=&quot;/cmssekolah/2021/01/05/cmssekolah.html&quot;&gt;CMS Website sekolah gratis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Special dan dedikasi kami untuk kebutuhan sekolah dengan cms sekolah gratis yang sudah terkonsep secara detail untuk kebutuhan sekolah, dengan aplikasi ini maka akan memudahkan pihak sekolah develope modern situs nya. semoga bermanfaat untuk dunia pendidikan dan edukasi ya.&lt;/p&gt;
+
+&lt;h3 id=&quot;cms-sekolah&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/cmssekolah/2021/01/05/cmssekolah.html&quot;&gt;CMS SEKOLAH&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/axcora school cms sekolah website gratis free download source code.jpg&quot; alt=&quot;CMS SEKOLAH GRATIS DOWNLOAD FREE DOWNLOAD&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;About axcora school cms&lt;/p&gt;
+
+&lt;p&gt;Karena tersadar akan kebutuhan untuk pihak sekolah dalam kebutuhan situs untuk informasi, dan tentunya dengan anggaran bervariasi tergantung dari pihak school maka tercipta lah cms ini untuk digunakan , agar tentunya tujuan utama memudahkan dalam develope project site sekolah dengan cepat. mengapa cepat ?? karena secara skema dan konsep sudah terstruktur agar memudahkan pihak sekolah dengan cepat menggunakan dan membuat website sekolah dengan cepat.&lt;/p&gt;
+
+&lt;p&gt;Installasi untuk kebutuhan installasi nya maka diperlukan untuk download terlebih dahulu , kemudian bisa di upload ke shared hosting, langkah awal lakukan download &lt;a href=&quot;https://github.com/mesinkasir/aplikasipembuatanwebsitesekolahgratis&quot;&gt;disini →&lt;/a&gt; , atau bisa baca readme.md file pada github untuk penjelasan lebih lanjut, pada halaman download itu , kamu bisa lakukan download atau fork full source code nya , setelah download sukses lakukan upload file ke shared hosting atau cloud hosting mu, dan sekarang tinggal membuat databased yes..&lt;/p&gt;
+
+&lt;p&gt;Database : untuk awal buka phpmyadmin pada hosting kamu, dan buatlah database baru, lalu impor file db cms sekolah ini yang terletak pada folder database axcoraschool/database dan impot database.sql file nya, setelah impor selesai maka database sudah ready, kini saat nya kita akses backend untuk kebutuhan login admin, tapi perlu kita lakukan konfigurasi file nya.&lt;/p&gt;
+
+&lt;p&gt;Konfigurasi database : Buka folder axcoraschool/db_connect.php dan edit dengan teks editor atau notepad , sesuaikan dengan database dan user pada hosting kamu dan simpan .&lt;/p&gt;
+
+&lt;p&gt;Selamat kini cms sekolah gratis download ini sudah bisa kamu gunakan deh..&lt;/p&gt;
+
+&lt;p&gt;Fitur Axcora school aplikasi web&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Login Area&lt;/li&gt;
+  &lt;li&gt;Dashboard Home&lt;/li&gt;
+  &lt;li&gt;Kategori Group&lt;/li&gt;
+  &lt;li&gt;Post Page&lt;/li&gt;
+  &lt;li&gt;Setting&lt;/li&gt;
+  &lt;li&gt;Log Out&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Oke deh sekarang saat nya kita buat situs kamu secara gratis dan cepat, langkah awal akses website kamu untuk melakukan login dengan menambahkan /admin&lt;/p&gt;
+
+&lt;p&gt;Login Area&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fitur untuk akses dan masuk ke backend cms sekolah, untuk awal lakukan login dengan user name : admin / password : 123456m setelah sukses maka aps ini akan membawa kamu ke halaman dashboard awal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Kategori&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;By default kami sudah menyiapkan kategori agar memudahkan mu untuk membangun situs dengan cepat, jadi lebih baik konsen pada post artikle penjelasan saja, kamu bisa lewati area ini , atau bisa membuat kategori baru dengan klik add new kategori dan masukan kategori kemudian simpan jika kamu membutuhkan untuk membuat kategori.&lt;/li&gt;
+  &lt;li&gt;kategori informasi untuk memberikan dan mengelompokan penjelasan mengenai informasi sekolah pada menu ini seperti pengelompokan agenda berita dan berbagai informasi lain nya.&lt;/li&gt;
+  &lt;li&gt;Profile kategori adalah grup untuk mengelompokan mengenai profile sekolah seperti kepala sekolah, guru, sejarah sekolah, visi misi dan lain lain.&lt;/li&gt;
+  &lt;li&gt;Update katgeori : bebas untuk melakukan update mengenai kebutuhan info seperti rekreasi dan lain sebagai nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Post page article&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fitur untuk memberikan konten mengenai berbagai keterangan sesuai kebutuhan nya, dengan konsep yang sudah kami skema kan maka memudahkan web admin tinggal edit saja sesuai kebutuhan nya.&lt;/li&gt;
+  &lt;li&gt;Cara melakukan edit tinggal klik pada salah satu konten yang sudah kami buat, kemudian edit dan masukan artikel sesuai kebutuhan selanjutnya lakukan penyimpanan untuk menyimpan data.&lt;/li&gt;
+  &lt;li&gt;Menghapus konten artikel, untuk menghapus konten tinggal masuk pada konten dan klik delete untuk melakukan penghapusan&lt;/li&gt;
+  &lt;li&gt;New content untuk membuat artikel baru tinggal klik new content article dan masukan artikel sesuai kebutuhan kemudian kelompokan pada kategori agar konten tampil pada kategori, selanjutnya klik simpan, dan perlu di ketahui untuk menyimpan konten tidak langsung ditampilkan pada halaman website, hal ini untuk mengontrol agar memudahkan dalam cek konten sebelum publish, nah jika konten sudah layak untuk tampil maka tinggal klik publish untuk menampilkan konten artikel yang sudah anda buat dan simpan tadi.&lt;/li&gt;
+  &lt;li&gt;Setting : Konfigurasi nama sekolah dan kontak sekolah tersedia pada fitur ini , masukan nama sekolah kontak dan keterangan about mengenai sekolah anda.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Untuk dokumentasi lengkap penggunaan tersedia pada halaman about sekolah.&lt;/p&gt;
+
+&lt;p&gt;Nah semoga membantu untuk dunia pendidikan dan sekolah ya…&lt;/p&gt;
+
+&lt;p&gt;Dan misal butuh hosting dan domain sekolah kita juga sediakan plus installasi &lt;a href=&quot;/cmssekolah/2021/01/05/cmssekolah.html&quot;&gt;cms sekolah&lt;/a&gt; ini secara langsung jika berminat yes,, tentunya dengan harga murah.&lt;/p&gt;
+
+&lt;p&gt;Spersifikasi paket online&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hosting&lt;/li&gt;
+  &lt;li&gt;Domain .sch.id&lt;/li&gt;
+  &lt;li&gt;CMS Sekolah axcora school apps&lt;/li&gt;
+  &lt;li&gt;Bantuan installasi dan setting&lt;/li&gt;
+  &lt;li&gt;Live time support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=k5ShqrpbDIs&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://axcora.com/cmssekolah/&quot;&gt;All in one webs apps sekolah lengkap →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;CMS Sekolah&quot;]</name></author><summary type="html">CMS Website sekolah gratis</summary></entry><entry><title type="html">Aplikasi kasir toko online new pos-x web app</title><link href="/aplikasitoko/2020/07/05/posx.html" rel="alternate" type="text/html" title="Aplikasi kasir toko online new pos-x web app" /><published>2020-07-05T00:00:00+07:00</published><updated>2020-07-05T00:00:00+07:00</updated><id>/aplikasitoko/2020/07/05/posx</id><content type="html" xml:base="/aplikasitoko/2020/07/05/posx.html">&lt;p&gt;Solusi terbaik dengan menggunakan aplikasi kasir online ini untuk kebutuhan toko kamu, &lt;a href=&quot;/aplikasitoko/2020/07/05/posx.html&quot;&gt;aplikasi toko online&lt;/a&gt; dengan web app full online menjadikan nya mudah dalam akses via berbagai device mulai dari smartphone android iphone hingga mesin kasir windows mu. dengan desain terbaik era modern point of sale pos-x menjadikan kesempurnaan dalam digunakan untuk kebutuhan usaha retail shop store mu.&lt;/p&gt;
+
+&lt;h3 id=&quot;mesin-kasir-online&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/07/05/posx.html&quot;&gt;MESIN KASIR ONLINE&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi toko online web app.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inilah real aplikasi kasir , aplikasi toko dengan full online system menggunakan tehcnology web app dalam penerapan nya semakin murah dan dapat digunakan dengan berbagai user tak terbatas untuk mu, kemampuan nya dalam akses lintas device platform menyempurnakan pos-x web app ini untuk digunakan, dengan super lengkap dan sangat mudah memudahkan mu dalam setiap akitivtas pekerjaan, desain menggunakan dark mode era modern saat ini semakin mempercantik display digunakan, saat nya beralih ke new web app point of sale.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-pos-x-web-app&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/07/05/posx.html&quot;&gt;WHY POS-X WEB APP&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mesin kasir online aplikasi toko.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;POS-X web app solusi terbaik dengan kelengkapan system dimiliki, menggunakan barcode technology di konfigurasikan dengan touchscreen metode penjualan bergambar foto produk lengkap pada fitur pekerjaan dan semakin keren dengan User Design Interface nya.ini lah alasan mengapa beralih menggunakan POS-X web apps.&lt;/p&gt;
+
+&lt;h3 id=&quot;get-started-now&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/07/05/posx.html&quot;&gt;GET STARTED NOW&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi toko mesin kasir online.jpg&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Berbagai fitur terbaik pada web app ini bisa digunakan dalam mendukung usaha kamu, .
+fitur :
+DATABASE&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;user acount&lt;/li&gt;
+  &lt;li&gt;customer&lt;/li&gt;
+  &lt;li&gt;supplier&lt;/li&gt;
+  &lt;li&gt;member card&lt;/li&gt;
+  &lt;li&gt;Grup categori&lt;/li&gt;
+  &lt;li&gt;Produk support barcode dan gambar produk&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TRANSAKSI&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;pembelian&lt;/li&gt;
+  &lt;li&gt;penjualan point of sale kasir&lt;/li&gt;
+  &lt;li&gt;pencatatan kas biaya keluar&lt;/li&gt;
+  &lt;li&gt;close cashier&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;LAPORAN&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;laporan stok&lt;/li&gt;
+  &lt;li&gt;laporan penjualan detail&lt;/li&gt;
+  &lt;li&gt;laporan income omset pendapatan&lt;/li&gt;
+  &lt;li&gt;laporan detail lain nya&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;CONFIGURATION&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;ID profile toko usaha&lt;/li&gt;
+  &lt;li&gt;Customer display&lt;/li&gt;
+  &lt;li&gt;Printer setting&lt;/li&gt;
+  &lt;li&gt;Backup database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;modern-pos-era&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/07/05/posx.html&quot;&gt;MODERN POS ERA&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi toko mesin kasir online app.jpg&quot; alt=&quot;Aplikasi kasir penjualan toko online terbaru&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saat nya bersantai dan kontrol pembukuan hingga transaksi toko mu dimana saja dan kapan saja dengan pos-x web apps, the real online point of sale untuk usaha kamu.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TGjTbgIe3LI&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=v9colB0cQHg&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi Toko&quot;]</name></author><summary type="html">Solusi terbaik dengan menggunakan aplikasi kasir online ini untuk kebutuhan toko kamu, aplikasi toko online dengan web app full online menjadikan nya mudah dalam akses via berbagai device mulai dari smartphone android iphone hingga mesin kasir windows mu. dengan desain terbaik era modern point of sale pos-x menjadikan kesempurnaan dalam digunakan untuk kebutuhan usaha retail shop store mu.</summary></entry><entry><title type="html">Aplikasi Restoran rumah makan online resto-x web app</title><link href="/aplikasirestoran/2020/07/05/restox.html" rel="alternate" type="text/html" title="Aplikasi Restoran rumah makan online resto-x web app" /><published>2020-07-05T00:00:00+07:00</published><updated>2020-07-05T00:00:00+07:00</updated><id>/aplikasirestoran/2020/07/05/restox</id><content type="html" xml:base="/aplikasirestoran/2020/07/05/restox.html">&lt;p&gt;&lt;a href=&quot;/aplikasirestoran/2020/07/05/restox.html&quot;&gt;Aplikasi restoran cafe rumah makan depot dengan touchscreen mode dan gambar menu makanan minuman web apps solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Web app technology modern saat ini dengan web app memudahkan akses aplikasi restoran cafe dan rumah makan ini via berbagai device kamu, mulai dari smartphone android iphone hingga windows dalam kebutuhan bertransaksi dengan cepat hingga cek pembukuan secara langsung dimana saja dan kapan saja via online clouds based web app, dengan fitur menu penjualan touchscreen semakin elegan untuk digunakan.&lt;/p&gt;
+
+&lt;h3 id=&quot;mesin-kasir-restoran-online&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasirestoran/2020/07/05/restox.html&quot;&gt;MESIN KASIR RESTORAN ONLINE&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi%20restoran%20online%20web%20app%20modern.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;New Aplikasi restoran dengan gambar menu makanan minuman dan lengkap fitur details - support mobile resto web app&lt;/p&gt;
+
+&lt;p&gt;Aplikasi restoran cafe rumah makan dan bidang usaha kuliner dengan touchscreen system plus penjualan kasir bergambar menjadikan mewah dan elegan nya aplikasi kasir ini untuk digunakan.
+Support offline mode maupun upgrade ke layanan online dengan biaya tahunan yang murah untuk menunjang kebutuhan usaha mu.&lt;/p&gt;
+
+&lt;p&gt;System kerja dan penggunaan
+OFFLINE MODE
+pada offline mode installasi diperlukan hanya web server local , kami bantu untuk penginstallan hingga aplikasi siap digunakan dan kebutuhan untuk standalone single mesin kasir.
+ONLINE MODE
+Penggunaan installasi langsung aplikasi via clouds memudahkan dalam akses aplikasi ini secara langsung online via berbagai device seperti smartphone android,iphone dan OS lain.&lt;/p&gt;
+
+&lt;p&gt;Fitur aplikasi restoran
+databased&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;User account&lt;/li&gt;
+  &lt;li&gt;meja table&lt;/li&gt;
+  &lt;li&gt;Supplier&lt;/li&gt;
+  &lt;li&gt;member card&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Menu dan produk&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Group menu makanan minuman (+ gambar)&lt;/li&gt;
+  &lt;li&gt;Menu makanan dan minuman serta produk dengan stok (+ gambar)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Transaksi&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;transaksi pembelian&lt;/li&gt;
+  &lt;li&gt;arus pengeluaran kas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Point of sale&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;penjualan kasir point of sale dengan fitur menu makanan minuman produk dan grup bergambar&lt;/li&gt;
+  &lt;li&gt;kitchen order print&lt;/li&gt;
+  &lt;li&gt;bill print&lt;/li&gt;
+  &lt;li&gt;hold system untuk mencatat pesanan pelanggan (digunakan system pembayaran setelah makan)&lt;/li&gt;
+  &lt;li&gt;Print kasir struk penjualan&lt;/li&gt;
+  &lt;li&gt;pembayaran cash&lt;/li&gt;
+  &lt;li&gt;pembayaran dengan credit card&lt;/li&gt;
+  &lt;li&gt;pembayaran dengan saldo member card&lt;/li&gt;
+  &lt;li&gt;alert bill list&lt;/li&gt;
+  &lt;li&gt;cek bill list&lt;/li&gt;
+  &lt;li&gt;cek transaksi kasir&lt;/li&gt;
+  &lt;li&gt;cek income pendapatan kasir&lt;/li&gt;
+  &lt;li&gt;close cash tutup kasir&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Report detail&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;laporan detail harian&lt;/li&gt;
+  &lt;li&gt;laporan detail bulanan&lt;/li&gt;
+  &lt;li&gt;laporan detail pembayaran&lt;/li&gt;
+  &lt;li&gt;laporan detail menu jual&lt;/li&gt;
+  &lt;li&gt;grafic top penjualan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Setting&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;konifgurasi ID restoran&lt;/li&gt;
+  &lt;li&gt;Setting printer&lt;/li&gt;
+  &lt;li&gt;Customer display&lt;/li&gt;
+  &lt;li&gt;Backup database&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dukungan applikasi&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;XAMP web server local&lt;/li&gt;
+  &lt;li&gt;code igniter framework&lt;/li&gt;
+  &lt;li&gt;Mysql databased&lt;/li&gt;
+  &lt;li&gt;Litespeed for fast online mobile pos web app&lt;/li&gt;
+  &lt;li&gt;Live time support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLQDm6k9_HvYN5uzqK0AkwELTt3HkCQ8il&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CyCgLOCqvx0&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi restoran&quot;]</name></author><summary type="html">Aplikasi restoran cafe rumah makan depot dengan touchscreen mode dan gambar menu makanan minuman web apps solutions</summary></entry><entry><title type="html">Aplikasi toko online kasir dexopos full dengan penjualan gambar foto produk</title><link href="/aplikasitoko/2020/06/12/dx.html" rel="alternate" type="text/html" title="Aplikasi toko online kasir dexopos full dengan penjualan gambar foto produk" /><published>2020-06-12T00:00:00+07:00</published><updated>2020-06-12T00:00:00+07:00</updated><id>/aplikasitoko/2020/06/12/dx</id><content type="html" xml:base="/aplikasitoko/2020/06/12/dx.html">&lt;p&gt;Dexopos web app adalah solusi &lt;a href=&quot;/aplikasitoko/2020/06/12/dx.html&quot;&gt;aplikasi toko online&lt;/a&gt; modern simple dan mudah digunakan dengan touchscreen full metode menimalkan penggunaan barcode dalam operasional nya semakin ekonomis dan irit dalam kebutuhan point of sale package.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-modern-mesin-kasir-online&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/12/dx.html&quot;&gt;NEW MODERN MESIN KASIR ONLINE&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren wp.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mesin kasir online modern untuk kebutuhan bertransaksi kasir penjualan mu, dengan desain full touchscreen metode include gambar foto produk menyempurnakan user interface dalam digunakan , via online mode dengan retina display akan secara otomatis mengikuti layar sesuai dengan kebutuhan baik desktop maupun via mobile dalam kebutuhan akses mesin kasir online ini.&lt;/p&gt;
+
+&lt;h3 id=&quot;dexopos-web-app-best-features&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/12/dx.html&quot;&gt;DEXOPOS WEB APP BEST FEATURES&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren (3).png&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dexopos menyempurnakan kebutuhan akan bertransaksi dengan keren via display UI modern , dukungan penuh touchscreen metode dan develope menggunakan laravel PHP artisan menjadikan pos web app ini semakin sempurna dengan kestabilan dalam digunakan dan peforma kecepatan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mobile pos aplikasi toko online modern  penjualan kasir terbaru (3).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sangat simple dengan fitur yang tersedia cocok untuk usaha kecil dalam penggunaan nya , biasa digunakan pada shirt shop , distro fashion , accsesories dan berbagai toko shop store lain nya. menggunakan retina display memudahkan akses via smartphone maupun dekstop menyesuaikan dengan kondisi layar digunakan , semakin memudahkan dalam prkatek operasional penggunaan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren (2).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dengan hadirnya database fitur memudahkan mu dalam mendaftarkan dan melakukan regristasi database mulai dari user account , Staff petugas , categori group yang membantu mempercepat transaksi kasir dengan pencarian via pengelompokan produk by categories , produk based untuk mendaftarkan produk include dengan detail foto gambar yang digunakan pada display POS penjualan kasir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren (1).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Point of sale penjualan kasir features yang keren era dark mode modern menyempurnakan display point of sale digunakan, dengann mudah dalam melakukan transaksi secara cepat dengan pengelompokan produk kategori , dan gambar produk mempercepat penjualan kasir dengan full touchscreen metode dalam penerapan nya, sehingga lebih menghemat anggaran belanja mesin kasir tanpa menggunakan laser scanner barcode kamu sudah dapat dengan cepat melakukan operasionla trnasksi kasir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mobile pos aplikasi toko online modern  penjualan kasir terbaru (4).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dengan mobile staff memudahkan karyawan dalam mencatat dan melakukan order penjualan via smartphone nya baik android maupun iphone support menggunakan mobile pos ini, tanpa perlu installasi pada device APK android atau APP ios , dengan tidak melakukan installlasi pada device sehingga lebih cepat dalam berbagai kebutuhan pekerjaan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren (5).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dukungan receipt printer memudahkan mu melakukan print out via aplikasi ini, baik via clouds printer maupun via desktop offline printer kasir yang kamu gunakan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi kasir toko penjualan online terbaru keren (4).png&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Semakin sempurna dalam kebutuhan akan cek laporan detail berdasarkan periode kebutuhan mu, pada fitur laporan omset profit detail ini kamu bisa cek laporan baik harian , mingguan , bulanan , tahunan dan customise sesuai kebutuhan kamu disini.&lt;/p&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;modern-pos-web-app-era&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/12/dx.html&quot;&gt;MODERN POS WEB APP ERA&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kjDh1BhSvz0&amp;amp;t=9s&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1PWUy4woxSM&amp;amp;t=11s&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi Toko&quot;]</name></author><summary type="html">Dexopos web app adalah solusi aplikasi toko online modern simple dan mudah digunakan dengan touchscreen full metode menimalkan penggunaan barcode dalam operasional nya semakin ekonomis dan irit dalam kebutuhan point of sale package.</summary></entry><entry><title type="html">Aplikasi restoran cafe rumah makan dengan gambar menu makanan dan minuman</title><link href="/aplikasirestoran/2020/06/10/dx-resto.html" rel="alternate" type="text/html" title="Aplikasi restoran cafe rumah makan dengan gambar menu makanan dan minuman" /><published>2020-06-10T00:00:00+07:00</published><updated>2020-06-10T00:00:00+07:00</updated><id>/aplikasirestoran/2020/06/10/dx%20resto</id><content type="html" xml:base="/aplikasirestoran/2020/06/10/dx-resto.html">&lt;p&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/10/dx-resto.html&quot;&gt;Aplikasi restoran online cafe rumah makan dengan gambar menu makanan dan minuman support online android iphone windows&lt;/a&gt; 
+ Develope menggunakan &lt;a href=&quot;https://laravel.com&quot;&gt;laravel&lt;/a&gt; php artisan framework menjadikan kesempurnaan dalam pengguaan nya, mudah digunakan via desktop version maupun kebutuhan akan online mode dengan mobile waiters app, yang mempercepat waiters dalam mencatat pesanan pelanggan via smartphone android dan iphone nya, dilengkapi fitur pencatatan meja memudahkan kasir untuk cek dan cetak print kasir pelanggan&lt;/p&gt;
+
+&lt;h3 id=&quot;new-modern-mesin-kasir-online&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/10/dx-resto.html&quot;&gt;NEW MODERN MESIN KASIR ONLINE&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/new resto pos app - Copy.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aplikasi restoran lengkap dengan pos kasir gambar menu makanan minuman meja,support online aplikasi&lt;/p&gt;
+
+&lt;p&gt;Aplikasi restoran modern dengan dark mode display era modern saat ini, build menggunakan laravel php artisan framework modern populer saat ini dan menggunakan mysql databased sehingga lebih stabil dan powerfull dalam digunakan menunjang usaha kuliner restoran rumah makan dan cafe mu.&lt;/p&gt;
+
+&lt;p&gt;fitur simple dan lengkap mudah digunakan dengan modules :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;user : membuat user akses login dan jabatan&lt;/li&gt;
+  &lt;li&gt;meja untuk mendaftarkan meja guna pencatatan meja&lt;/li&gt;
+  &lt;li&gt;group : untuk pengelompokan menu makanan dan minuman&lt;/li&gt;
+  &lt;li&gt;menu : untuk memasukan semua menu makanan dan minuman&lt;/li&gt;
+  &lt;li&gt;POS : point of sale penjualan kasir dengan fitur meja pelanggan,fitur grup dan menu makanan minuman serta pembayaran transaksi kasir plus percetakan struk kasir.&lt;/li&gt;
+  &lt;li&gt;laporan pendapatan income detail per periode (harian,mingguan,bulanan dan customise)&lt;/li&gt;
+  &lt;li&gt;mobile waiters Apps untuk mencatat pesanan pelanggan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Layanan :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bantuan installasi (kami installkan)&lt;/li&gt;
+  &lt;li&gt;Live help support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Paket Dukungan Aplikasi&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;XAMPP (Apache server + PHP Myadmin + mysql databased )&lt;/li&gt;
+  &lt;li&gt;NPM&lt;/li&gt;
+  &lt;li&gt;Laravel Framework&lt;/li&gt;
+  &lt;li&gt;Composer&lt;/li&gt;
+  &lt;li&gt;VueJS&lt;/li&gt;
+  &lt;li&gt;Aplikasi restoran&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/resto pos web app - Copy.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Optional Update :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mendukung installasi aplikasi via clouds online menjadi web app dan dapat diakses langsung dari smartphone android iphone hingga mesin kasir windows dan berbagai OS , kontrak layanan berdurasi 1 tahun.&lt;/li&gt;
+  &lt;li&gt;Di dukung oleh litespeed server semakin cepat dalam kebutuhan mobile resto web app mu untuk online mode.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;modern-pos-web-app-era&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/12/dx.html&quot;&gt;MODERN POS WEB APP ERA&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fafCewP9xJk&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=-tUL6C1IIJI&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi restoran&quot;]</name></author><summary type="html">Aplikasi restoran online cafe rumah makan dengan gambar menu makanan dan minuman support online android iphone windows Develope menggunakan laravel php artisan framework menjadikan kesempurnaan dalam pengguaan nya, mudah digunakan via desktop version maupun kebutuhan akan online mode dengan mobile waiters app, yang mempercepat waiters dalam mencatat pesanan pelanggan via smartphone android dan iphone nya, dilengkapi fitur pencatatan meja memudahkan kasir untuk cek dan cetak print kasir pelanggan</summary></entry><entry><title type="html">Aplikasi toko kasir zpos web app modern terbaru</title><link href="/aplikasitoko/2020/06/05/zpos.html" rel="alternate" type="text/html" title="Aplikasi toko kasir zpos web app modern terbaru" /><published>2020-06-05T00:00:00+07:00</published><updated>2020-06-05T00:00:00+07:00</updated><id>/aplikasitoko/2020/06/05/zpos</id><content type="html" xml:base="/aplikasitoko/2020/06/05/zpos.html">&lt;p&gt;Modern technology dengan menggunakan zpos web app &lt;a href=&quot;/aplikasitoko/2020/06/05/zpos.html&quot;&gt;aplikasi toko penjualan kasir&lt;/a&gt; , super simple dan mudah digunakan dengan kelengkapan terbaik digunakan untuk berbagai pekerjaan dan pembukuan usaha.&lt;/p&gt;
+
+&lt;h3 id=&quot;desktop-aplikasi-program-mesin-kasir-online&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/05/zpos.html&quot;&gt;DESKTOP APLIKASI PROGRAM MESIN KASIR ONLINE&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/point of sale web app solutions.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zpos memudahkan anda dalam berbagai kebutuhan akan pembukuan dan mempercepat transaksi kasir,dengan fitur simple mudah digunakan dan lengkap, mulai dari profile , supplier , kategori grouping produk , satuan jual produk , produk untuk dijual , inventori stok management , penjualan kasir point of sale dan laporan detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/zpos point of sale web app.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;integrasi dengan berbagai perlatan kasir memudahkan zpos dalam berinteraksi dengan cepat include koneksi ke hardware pos device semakin memudahkan setiap pekerjaan dengan web apps ini.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/point of sale web app.jpg&quot; alt=&quot;APLIKASI ONLINE toko kasir penjualan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dukungan penuh dengan upgrade ke online mode memudahkan cek laporan laporan detail mu dengan hanya dirumah saja, online clouds web app melakukan installasi via online clouds secara langsung sehingga tidak perlu lagi melakukan installasi ke berbagai device mu dengan tanpa ada nya installasi pada device kamu mulai dari android iphone dan windows menjadikan kecepatan kestabilan sempurna dengan menggunakan aplikasi toko kasir online ini. cukup akses via web browser aplikasi Z-pos lakukan login dan segera memulai pekerjaan.&lt;/p&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kh80c_NSEEM&amp;amp;t=65s&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=DWFDeQuU2E4&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi Toko&quot;]</name></author><summary type="html">Modern technology dengan menggunakan zpos web app aplikasi toko penjualan kasir , super simple dan mudah digunakan dengan kelengkapan terbaik digunakan untuk berbagai pekerjaan dan pembukuan usaha.</summary></entry><entry><title type="html">Aplikasi toko kasir VPOS support online web app</title><link href="/aplikasitoko/2020/06/04/vpos.html" rel="alternate" type="text/html" title="Aplikasi toko kasir VPOS support online web app" /><published>2020-06-04T00:00:00+07:00</published><updated>2020-06-04T00:00:00+07:00</updated><id>/aplikasitoko/2020/06/04/vpos</id><content type="html" xml:base="/aplikasitoko/2020/06/04/vpos.html">&lt;p&gt;&lt;a href=&quot;/aplikasitoko/2020/06/04/vpos.html&quot;&gt;Simple program software aplikasi kasir toko online&lt;/a&gt;  untuk kebutuhan bertransaksi dengan cepat, inventori management, hingga kebutuhan akan penjualan kasir plus laporan laporan detail siap untuk digunakan dalam menunjang usaha mu.&lt;/p&gt;
+
+&lt;h3 id=&quot;vpos-simple-modern-web-apps&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasitoko/2020/06/04/vpos.html&quot;&gt;VPOS SIMPLE MODERN WEB APPS&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mesin kasir online vpos.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fitur lengkap siap untuk digunakan dalam menujang kebutuhan usaha , mulai dari user account, unit satuan produk , inventori stok management, point of sale penjualan kasir , list transaksi , admin backoffice dashboard include report detail, dan kebutuhan lain nya.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mesin kasir online new vpos web app.jpg&quot; alt=&quot;APLIKASI TOKO ONLINE&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kebutuhan akan offline mode anda dapat menggunakan desktop version dengan terminal localhost,atau update ke online mode untuk kemudahan akses via berbagai device dimana saja dan kapan saja dalam melakukan transaksi dan cek pembukuan era modern mobile pos saat ini.tanpa perlu installasi pada berbagai device cukup satu kali installasi via clouds online , anda dapat menikmati layanan web app ini bersama dengan karyawan dalam berbagai kebutuhan pekerjaan.&lt;/p&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uZBBgEHw12M&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OwY-6OtH960&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi Toko&quot;]</name></author><summary type="html">Simple program software aplikasi kasir toko online untuk kebutuhan bertransaksi dengan cepat, inventori management, hingga kebutuhan akan penjualan kasir plus laporan laporan detail siap untuk digunakan dalam menunjang usaha mu.</summary></entry><entry><title type="html">Software program aplikasi restoran murah bisa online apps</title><link href="/aplikasirestoran/2020/06/03/zresto.html" rel="alternate" type="text/html" title="Software program aplikasi restoran murah bisa online apps" /><published>2020-06-03T00:00:00+07:00</published><updated>2020-06-03T00:00:00+07:00</updated><id>/aplikasirestoran/2020/06/03/zresto</id><content type="html" xml:base="/aplikasirestoran/2020/06/03/zresto.html">&lt;p&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/zresto.html&quot;&gt;Software program restoran aplikasi restoran keren dengan gambar menu makanan dan minuman simple dan mudah digunakan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;APlikasi restoran simple mudah dalam penggunaan nya dan special khusus untuk berkontribusi dalam membantu penjualan restoran kasir dan warung memudahkan mu dalam transaksi cepat via aplikasi restoran ini, kemudahan dalam metode offline desktop version dan online mode menyempurnakan kebutuhan akan transaksi dan pembukuan sesuai usaha kamu.&lt;/p&gt;
+
+&lt;h3 id=&quot;software-program-aplikasi-restoran-murah-bisa-online-apps&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/zresto.html&quot;&gt;Software program aplikasi restoran murah bisa online apps&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mesin kasir restoran online z-resto web app.jpg&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;
+Aplikasi software program restoran murah untuk kebutuhan usaha kuliner mu baik untuk restoran rumah makan cafe warkop angkringan dan usaha food drink shop lain nya.&lt;/p&gt;
+
+&lt;p&gt;sangat mudah digunakan dan simple dalam penggunaan nya, dukungan penjualan bergambar semakin keren untuk POS display kasir mu.&lt;/p&gt;
+
+&lt;p&gt;dengan offline mode sekali beli untuk selamanya pada pc yang sama dan tanpa biaya lagi.
+atau upgrade ke online mode dengan biaya tahunan yang murah hanya Rp.550.000/tahun , dengan online mode memungkinkan untuk akses via smartphone android iphone windows dan os lain nya.&lt;/p&gt;
+
+&lt;p&gt;fitur :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;user account&lt;/li&gt;
+  &lt;li&gt;menu makanan dan minuman support dengan gambar foto menu&lt;/li&gt;
+  &lt;li&gt;6 group kategori pengelompokan menu&lt;/li&gt;
+  &lt;li&gt;Point of sale penjualan kasir dengan gambar menu dan order list&lt;/li&gt;
+  &lt;li&gt;Clouds Printer&lt;/li&gt;
+  &lt;li&gt;Laporan list penjualan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Simple dan dengan desain modern memudahkan mu dalam bertransaksi dengan cepat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/aplikasi restoran online terbaru murah web apps.jpg&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=CTiEkkZc6mU&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=KU8RLi0m8g0&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi restoran&quot;]</name></author><summary type="html">Software program restoran aplikasi restoran keren dengan gambar menu makanan dan minuman simple dan mudah digunakan</summary></entry><entry><title type="html">Aplikasi restoran murah dan bisa online android iphone windows sipp -admin kasir waiters</title><link href="/aplikasirestoran/2020/06/03/sipresto.html" rel="alternate" type="text/html" title="Aplikasi restoran murah dan bisa online android iphone windows sipp -admin kasir waiters" /><published>2020-06-03T00:00:00+07:00</published><updated>2020-06-03T00:00:00+07:00</updated><id>/aplikasirestoran/2020/06/03/sipresto</id><content type="html" xml:base="/aplikasirestoran/2020/06/03/sipresto.html">&lt;p&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/sipresto.html&quot;&gt;Aplikasi restoran murah dan bisa online android iphone windows sipp -admin kasir waiters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;mau resto kamu sip jos ?? ya pakai sip resto web app, solusi aplikasi restoran kasir online dengan simple metode digunakan dalam menunjang kebutuhan transaksi kasir menjadikan kesempurnaan dalam transaksi cepat, dukungan online maupun offline mode bisa kamu pilih sesuai kebutuhan, dengan online mode web app memudahkan akses via smartphone hingga mesin kasir windows mu.&lt;/p&gt;
+
+&lt;h3 id=&quot;software-program-restoran-aplikasi-restoran-simple-mudah-digunakan-waiters-admin-kasir-all-in-one-dengan-online-web-app-android-iphone-windows-support&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/sipresto.html&quot;&gt;Software program restoran aplikasi restoran simple mudah digunakan waiters admin kasir all in one dengan online web app android iphone windows support&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/sale.png&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;
+Mobile resto web app dengan dukungan online mode , installasi aplikasi restoran dan database via online system memudahkan mu dalam akses dan melakukan pekerjaan via berbagai device mu, mulai dari smartphone android iphone hingga pc desktop laptop windows mu.
+simple system dan mudah digunakan membantu mu dalam mempercepat transaksi kasir sekaligus mencatat pembukuan.&lt;/p&gt;
+
+&lt;p&gt;Offline mode dengan local server memudahkan untuk menjalankan aplikasi restoran ini tanpa internet dan tanpa biaya tambahan lagi, sekali beli untuk selamanya. unlimited user,unlimited transaksi memudahkan dalam aktivitas pembukuan mu.&lt;/p&gt;
+
+&lt;p&gt;System bekerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;User data : untuk memasukan dan mendaftarkan karyawan lengkap dengan hak kuasa dan jabatan misalnya kasir ,waiters dan lain lain.&lt;/li&gt;
+  &lt;li&gt;Group kategori : untuk pengelompokan kategori menu makanan dan minuman untuk memudahkan dalam pengelompokan pencarian saat penjualan kasir dan akan tertata rapi dengan hadirnya fitur ini/&lt;/li&gt;
+  &lt;li&gt;Menu : untuk mendaftarkan memasukan dan membuat baru menu makanan dan minuman saji mu disini.&lt;/li&gt;
+  &lt;li&gt;Point of sale penjualan kasir dengan system meja memudahkan waiters maupun kasir untuk mencatat order pelanggan. dan memiliki kemampuan change table jika pelanggan berpindah meja. serta mendukung print out untuk mencetak struk kasir penjualan.&lt;/li&gt;
+  &lt;li&gt;Report : laporan detail list penjualan hadir pada menu ini.&lt;/li&gt;
+  &lt;li&gt;Akses data : admin akan memiliki fungsi dalam kebutuhan administrasi, kasir memiliki fungsi melakukan penjualan dan membantu admin untuk memasukan dan mendaftarkan menu makanan minuman, waiters hanya berkuasa untuk mencatat pesanan pelanggan .&lt;/li&gt;
+  &lt;li&gt;Login dilengkapi dengan username dan password untuk keamanan.&lt;/li&gt;
+  &lt;li&gt;Secure : system aman dengan online mode via tingkat keamanan berlapis mulai database , host hingga login akses terproteksi oleh secuirty system.&lt;/li&gt;
+  &lt;li&gt;Harga : tentu harga nya murah meriah untuk usaha kuliner mu.&lt;/li&gt;
+  &lt;li&gt;Offline desktop : solusi penggunaan aplikasi via offline mode yang tidak membutuhkan koneksi internet dan sekali beli untuk selamanya tanpa biaya tambahan lagi.&lt;/li&gt;
+  &lt;li&gt;Online mode : untuk kebutuhan online memungkinkan akses via smartphone android iphone windows dengan unlimted user akses dan transaksi, dikenakan biaya sewa host+ db minim kontrak 1 tahun dengan harga murah.&lt;/li&gt;
+  &lt;li&gt;After sales : layanan support live time untuk berbagai kendala.&lt;/li&gt;
+  &lt;li&gt;Installasi : paket aplikasi ini sudah free setting dan installasi siap pakai.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/menus.png&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=3vM0U8wLu3Y&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=qUVW4dqYZBU&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi restoran&quot;]</name></author><summary type="html">Aplikasi restoran murah dan bisa online android iphone windows sipp -admin kasir waiters</summary></entry><entry><title type="html">Aplikasi restoran simple modern keren unik</title><link href="/aplikasirestoran/2020/06/03/funrestoapp.html" rel="alternate" type="text/html" title="Aplikasi restoran simple modern keren unik" /><published>2020-06-03T00:00:00+07:00</published><updated>2020-06-03T00:00:00+07:00</updated><id>/aplikasirestoran/2020/06/03/funrestoapp</id><content type="html" xml:base="/aplikasirestoran/2020/06/03/funrestoapp.html">&lt;p&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/funrestoapp.html&quot;&gt;Software program restoran aplikasi restoran keren modern dan unik digunakan simple untuk penjualan kasir&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Program software aplikasi mesin kasir restoran simple dan mudah digunakan tentunya dengan desain menawan dan unik menjadikan nya lebih modern , dengan fitur yang fokus pada penjualan kasir memudahkan dalam melakukan transaksi kasir hingga cetak struk kasir penjualan dengan cepat.&lt;/p&gt;
+
+&lt;h3 id=&quot;aplikasi-restoran-simple-modern-keren-unik&quot;&gt;&lt;strong&gt;&lt;a href=&quot;/aplikasirestoran/2020/06/03/funrestoapp.html&quot;&gt;Aplikasi restoran simple modern keren unik&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mesin kasir restoran online fun resto apps.jpg&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aplikasi restoran simple dan murah mendukung online mode apps.&lt;/p&gt;
+
+&lt;p&gt;Aplikasi restoran yang mudah digunakan sangat simple untuk usaha kecil restoran cafe warkop warung makan depot dan berbagai usaha kuliner.&lt;/p&gt;
+
+&lt;p&gt;Features :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;user account&lt;/li&gt;
+  &lt;li&gt;table meja untuk mencatat no meja&lt;/li&gt;
+  &lt;li&gt;menu makanan dan minuman&lt;/li&gt;
+  &lt;li&gt;6 kategori group menu&lt;/li&gt;
+  &lt;li&gt;Penjualan kasir point of sale dengan display keren&lt;/li&gt;
+  &lt;li&gt;clouds printer&lt;/li&gt;
+  &lt;li&gt;Laporan list penjualan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sekali beli untuk selamanya pada pc yang sama.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/restaurant app cheap price.jpg&quot; alt=&quot;APLIKASI RESTORAN ONLINE WEB APP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mendukung online mode dengan online mode memudahkan dalam diakses via smartphone android iphone dan mesin kasir windows mu.&lt;/p&gt;
+
+&lt;p&gt;Paket set :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DVD installer atau mau cepat download langsung aplikasi resto ini.&lt;/li&gt;
+  &lt;li&gt;free installasi dan setting trainig siap pakai&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Order now :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline desktop sekali beli untuk selamanya dan tanpa biaya tahunan maupun bulanan.&lt;/li&gt;
+  &lt;li&gt;Online mode biaya berlaku per tahun&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;System kerja :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Offline mode untuk standalone mesin kasir tidak membutuhkan koneksi internet dan tanpa biaya tahunan lagi alias sekali beli untuk selama nya pada pc yang sama&lt;/li&gt;
+  &lt;li&gt;ONline mode : biaya per tahun, dengan installasi via online memungkinkan akses aplikasi ini via smartphone android iphone mesin kasir windows dan OS lain nya.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=hiVT-MZmUwk&amp;amp;t=79s&quot;&gt;DEMO VIDEO →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rPhovshZa9I&quot;&gt;DEMO FROM MOBILE PHONE →&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/hardware&quot;&gt;Pilih mesin kasir mu →&lt;/a&gt;&lt;/p&gt;</content><author><name>[&quot;Aplikasi restoran&quot;]</name></author><summary type="html">Software program restoran aplikasi restoran keren modern dan unik digunakan simple untuk penjualan kasir</summary></entry></feed>
