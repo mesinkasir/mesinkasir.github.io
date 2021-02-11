@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "CMS Sekolah gratis untuk pembuatan website sekolah"
-categories: cmssekolah
+categories: Website
 author:
 - CMS Sekolah
 meta: "Aplikasi pembuatan website Sekolah CMS Sekolah gratis free download"
 ---
-[CMS Website sekolah gratis](/cmssekolah/2021/01/05/cmssekolah.html) 
+[CMS Website sekolah gratis](/website/2021/01/05/cmssekolah.html) 
 
 Special dan dedikasi kami untuk kebutuhan sekolah dengan cms sekolah gratis yang sudah terkonsep secara detail untuk kebutuhan sekolah, dengan aplikasi ini maka akan memudahkan pihak sekolah develope modern situs nya. semoga bermanfaat untuk dunia pendidikan dan edukasi ya.
 
-### **[CMS SEKOLAH](/cmssekolah/2021/01/05/cmssekolah.html)**
+### **[CMS SEKOLAH](/website/2021/01/05/cmssekolah.html)**
 
 ![CMS SEKOLAH GRATIS DOWNLOAD FREE DOWNLOAD](/assets/img/axcora school cms sekolah website gratis free download source code.jpg)
 
