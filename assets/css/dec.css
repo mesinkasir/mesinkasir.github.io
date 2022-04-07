@@ -1,7 +1,32 @@
-@import url('http://fonts.cdnfonts.com/css/swiming-frog');html,body,p{font:100 1.615rem/1.705rem 'Swiming Frog',sans-serif}{margin:0;font-family:'Swiming Frog',sans-serif}
+@import url('http://fonts.cdnfonts.com/css/swiming-frog');html,body,p{font:100 1.315rem/1.405rem 'Swiming Frog',sans-serif}{margin:0;font-family:'Swiming Frog',sans-serif}
 @font-face {
     font-family: 'Swiming Frog';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 200;
     src: local('Swiming Frog'), url('https://fonts.cdnfonts.com/s/16554/SwimingFrog-Regular.woff') format('woff');
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+.card {
+  border-radius: 45px;
+  padding: 20px; 
+}
+.roundeds {
+  border-radius: 45px;
+}
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+img {
+  max-width: 100%;
+}
+
+.info {
+  font: 100 0.915rem/0.985rem 'Swiming Frog', sans-serif
+}
+.footer {
+  font: 100 1.015rem/1.105rem 'Swiming Frog', sans-serif
 }

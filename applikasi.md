@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Applikasi
+description: all kumpulan aplikasi kasir toko dan restoran online
+cover: /assets/img/aplikasi%20kasir%20toko%20penjualan%20online%20terbaru%20keren%20wp.jpg
 permalink: /app/
 ---
 

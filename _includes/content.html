@@ -1,0 +1,58 @@
+<div class="col-md-12 p-3 text-center">
+<h2 class="page-heading p-1"><strong><a href="{{ site.url }}">Explore {{ site.title }} Post</a></strong></h2>
+</div>
+<div class="row justify-content-center">
+
+  {%- if posts.size > 0 -%}
+    {%- if page.list_title -%}
+      <h3 class="post-list-heading">{{ page.list_title }}</h3>
+    {%- endif -%}
+
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+    <div class="col-md-3 p-1 mt-1">
+
+<div class="border">
+	<a class="post-link" href="{{ post.url | relative_url }}">
+	<img class="img-fluid" width="100%" alt="{{ post.title }}"
+	src="{{ post.cover}}"/>
+        <!--<span class="post-meta">{{ post.date | date: date_format }}</span>-->
+<div class="card-body p-3">    
+    <h3 class="card-title info">
+            {{ post.title | escape }}
+        </h3>
+          </a>
+		  </div>
+		  </div>
+    </div>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      
+      {%- endfor -%}
+
+
+
+<div class="col-md-12 p-3">
+    {% if site.paginate %}
+      <div class="pager">
+        <ul class="pagination">
+        {%- if paginator.previous_page %}
+          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+          <li><div class="current-page">{{ paginator.page }}</div></li>
+        {%- if paginator.next_page %}
+          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
+        {%- else %}
+          <li><div class="pager-edge">•</div></li>
+        {%- endif %}
+        </ul>
+      </div>
+    {%- endif %}
+	</div>
+
+  {%- endif -%}
+
+</div>

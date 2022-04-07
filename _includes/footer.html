@@ -1,45 +1,29 @@
-
-<footer class="bg-light">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper p-3">
-
-    <div class="row">
-	<div class="col-12 col-md-12">
-	Mesin Kasir github
-	</div>
-      <div class="col-6 col-md-6">
-        <ul>
-          <li><a href="/">Home Page</a></li>
-          <li><a href="/app">Applikasi</a></li>
-          <li><a href="/hardware">Mesin Kasir Set</a></li>
-          <li><a href="/blog">Blog Update</a></li>
-
-        </ul>
-      </div>
-      <div class="col-6 col-md-6">
-        {%- if site.author %}
-          <ul class="contact-list">
-            {% if site.author.name -%}
-              <li class="p-name">{{ site.author.name | escape }} contact</li>
-            {% endif -%}
-            <a href="https://wa.me/6285646104747">Chat</a><br/> <a href="tel:+6285331361404">Call</a> <br/>
-            {% if site.author.email -%}
-              <a class="u-email" href="mailto:{{ site.author.email }}">Email</a></li>
-            {%- endif %}
-          </ul>
-        {%- endif %}
-        </div>
-      <div class="footer-col-12 col-md-12">
-        <p>{{ site.description | escape }}<br/>Present by <a href="https://github.com/" target="blank">Github</a> Build with <a href="https://jekyllrb.com/" target="blank">Jekyll</a> written in <a href="https://rubyonrails.org/" target="blank">Ruby</a></p>
-      </div>
-    
-
-    <!--<div class="social-links">
-      {%- include social.html -%}
-    </div>-->
+<footer class="row border-top">
+<div class="col-md-4 p-3">
+<img class="img-fluid" alt="{{ site.title }}" src="{{site.cover}}"/>
 </div>
-  </div>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+<div class="col-md-8 p-3 p-md-5">
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
+{%- if site.author %}
+<h3>{{ site.title }}.</h3><p>{{ site.description | escape }}</p>
+<hr/>
+<h3>Contact.</h3>
+<p><i class="fa-solid fa-location-dot"></i> <a href="{{ site.author.map }}">{{ site.author.address}}<br/>{{ site.author.country}}</a>
+<br/>
+<i class="fa-brands fa-whatsapp"></i> Whatsapp : <a href="https://wa.me/{{ site.author.whatsapp }}">{{ site.author.whatsapp}}</a>
+<br/>
+<i class="fa-solid fa-mobile-screen-button"></i> Call Us : <a href="tel:+{{ site.author.phone }}">{{ site.author.phone}}</a>
+<br/>
+{% if site.author.email -%}
+<i class="fa-solid fa-paper-plane"></i> <a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+{%- endif %}
+{%- endif %}
+<hr/>
+<h3>Connect.</h3>
+{%- include social.html -%}
+</div>
+<div class="col-md-12 p-1 text-center border-top">
+<p class=""info"><small>copyrights <a href="{{site.url}}">{{site.title}}</a> build with <a href="https://jekyllrb.com/">jekyll</a> feat <a href="https://www.ruby-lang.org/en/">ruby rails</a> 
+host & repo on <a href="https://github.com">github</a></small></p>
+</div>
 </footer>
-</div>

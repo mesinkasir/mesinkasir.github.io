@@ -1,13 +1,22 @@
 ---
 layout: default
 ---
-<article class="post lead">
+<article class="post">
+  <img class="img-fluid" alt="{{ page.title }}" width="100%" src="{{page.cover}}"/>
+
+
+<div class="container">  
+<div class="row p-3">
+<div class="col-md-12 p-3">
+
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1><strong><a href="{{ page.url }}">{{ page.title | escape }}</a></strong></h1>
   </header>
 
   <div class="post-content">
     {{ content }}
   </div>
-
+</div>
+</div>
+</div>
 </article>
