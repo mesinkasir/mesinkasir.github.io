@@ -79,7 +79,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  dablogger!
+  dablogger
   jekyll-tagging
   wdm (>= 0.1.0)
   webrick (~> 1.7)
