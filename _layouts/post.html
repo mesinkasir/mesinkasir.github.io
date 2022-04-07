@@ -8,6 +8,7 @@ layout: default
 <div class="col-md-12 p-3">
   <header class="post-header">
   <h1><strong><a href="{{ page.url }}">{{ page.title | escape }}</a></strong></h1>
+  {{ page.tag }}
     <p class="post-meta">
 	
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}

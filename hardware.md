@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Hardware
+categories: 
+- hardwares
+- pos system
 cover: /assets/img/TOUCHSCREEN6.png
 description: peralatan perlengkapan mesin kasir alat kasir toko restoran
 permalink: /hardware/
