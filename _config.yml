@@ -16,7 +16,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 future: true
 url: https://mesinkasir.github.io
 
-minima:
+dablogger:
   date_format: "%-d %b, %Y"
 
 home:
@@ -53,7 +53,7 @@ home:
   title92: Blog
   title93: Start
 
-theme: minima
+theme: dablogger
 
 plugins:
  - jekyll-feed

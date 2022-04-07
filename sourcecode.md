@@ -10,7 +10,7 @@ description: Free download source code dan aplikasi gratis full version.
   <div class="row py-3 justify-content-center">
  {% for sc in site.categories.sourcecode %}
   <div class="col-md-3 p-1 col-6">
-      <a class="card p-1 text-center bg-light text-dark" href="{{ web.url }}">
+      <a class="card p-1 text-center bg-light text-dark" href="{{ sc.url }}">
       <img class="img-fluid card" alt="{{ sc.title }}" src="{{ sc.cover }}"/>
       <main class="card-body p-1">
       <h3 class="card-title info">{{ sc.title }}</h3>
