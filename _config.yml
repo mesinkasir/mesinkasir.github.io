@@ -55,7 +55,7 @@ home:
 
 # ganti kalau mau push repo github
 theme: minima
-# theme: dablogger
+#theme: dablogger
 
 plugins:
  - jekyll-feed

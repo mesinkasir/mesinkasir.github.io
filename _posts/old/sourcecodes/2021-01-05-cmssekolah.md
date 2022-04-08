@@ -64,6 +64,12 @@ Untuk dokumentasi lengkap penggunaan tersedia pada halaman about sekolah.
 
 Nah semoga membantu untuk dunia pendidikan dan sekolah ya...
 
+[Dokumentasi page →](https://mesinkasir.github.io/aplikasipembuatanwebsitesekolahgratis/)
+
+
+[Download Source Code →](https://github.com/mesinkasir/aplikasipembuatanwebsitesekolahgratis)
+
+
 Dan misal butuh hosting dan domain sekolah kita juga sediakan plus installasi [cms sekolah]({{page.url}}) ini secara langsung jika berminat yes,, tentunya dengan harga murah.
 
 Spersifikasi paket online
@@ -75,4 +81,4 @@ Spersifikasi paket online
 
 [DEMO VIDEO →](https://www.youtube.com/watch?v=k5ShqrpbDIs)
 
-[All in one webs apps sekolah lengkap →](https://axcora.com/cmssekolah/)
+[All in one webs apps sekolah lengkap →](https://school.axcora.com/)
