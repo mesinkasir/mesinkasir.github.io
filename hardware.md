@@ -20,21 +20,21 @@ Dan kini saat nya pilih paket lengkap mesin kasir.
 
   ![Mesin Kasir Touchscreen layar sentuh all in one pos](../assets/img/touchscreenpos.png)
 
-Sebuah mesin kasir technology dengan menggunakan touchscreen all in one pos point of sale system persembahan dari ASUS semakin mewah dan elegan dengan desain stylish dan fashionable ini lah mesin kasir terbaik dalam digunakan menunjang usaha dan bisnis mu, sensitf touchscreen memberikan kemudahan dan kecapatan dalam bertransaksi via all in one touchscreen pos by asus semakin lebih baik. [More info Touchscreen POS →](/mesinkasir/2020/04/03/touchscreen.html)
+Sebuah mesin kasir technology dengan menggunakan touchscreen all in one pos point of sale system persembahan dari ASUS semakin mewah dan elegan dengan desain stylish dan fashionable ini lah mesin kasir terbaik dalam digunakan menunjang usaha dan bisnis mu, sensitf touchscreen memberikan kemudahan dan kecapatan dalam bertransaksi via all in one touchscreen pos by asus semakin lebih baik. [More info Touchscreen POS →](/mesin kasir/pos hardware/hardwares/hardware/peralatan kasir/perangkat kasir/alat kasir/2020/04/03/touchscreen.html)
 
 
 **[HYBRID TABLET POS](/hardware)**
 
   ![Mesin Kasir Tablet POS hybrid technology](../assets/img/mesinkasironline-murah.png)
 
-Mesin kasir hybrid technology memungkinkan ber operasi tanpa menggunakan aliran listrik semakin mobile dan portable dalam digunakan, persembahan by hewllet packard tablet windows OS semakin kuat awet dan tahan lama dalam digunakan menunjang usaha dan pembukuan mu, metode koneksi lengkap memudahkan digunakan dengan bluetooth maupun via wifi printer semakin ringkas tanpa hadirnya kabel dan aliran listrik , inilah modern hybrid technology untuk usaha mu. [More info Hybrid POS →](/mesinkasir/2020/04/03/tablet.html)
+Mesin kasir hybrid technology memungkinkan ber operasi tanpa menggunakan aliran listrik semakin mobile dan portable dalam digunakan, persembahan by hewllet packard tablet windows OS semakin kuat awet dan tahan lama dalam digunakan menunjang usaha dan pembukuan mu, metode koneksi lengkap memudahkan digunakan dengan bluetooth maupun via wifi printer semakin ringkas tanpa hadirnya kabel dan aliran listrik , inilah modern hybrid technology untuk usaha mu. [More info Hybrid POS →](/mesin kasir/pos hardware/hardwares/hardware/peralatan kasir/perangkat kasir/alat kasir/2020/04/03/tablet.html)
 
 
 **[PORTABLE POS](/hardware)**
 
   ![Mesin Kasir portable terbaru modern](../assets/img/mesin kasi rrestoran portable terbaru murah.png)
 
-Solusi all in one portable mesin kasir modern dalam digunakan bertransaksi dengan cepat dan dengan pembukuan yang lengkap memuhdakan dalam setiap aktivitas pembukuan , inilah era mesin kasir portable modern dalam digunakan, include dengan mini printer kasir tersemat dalam satu casing untuk mencetak struk kasir semakin kompleks pada point of sale management system mu. [More info Portable POS →](/mesinkasir/2020/04/03/portable.html)
+Solusi all in one portable mesin kasir modern dalam digunakan bertransaksi dengan cepat dan dengan pembukuan yang lengkap memuhdakan dalam setiap aktivitas pembukuan , inilah era mesin kasir portable modern dalam digunakan, include dengan mini printer kasir tersemat dalam satu casing untuk mencetak struk kasir semakin kompleks pada point of sale management system mu. [More info Portable POS →](/mesin kasir/pos hardware/hardwares/hardware/peralatan kasir/perangkat kasir/alat kasir/2020/04/03/portable.html)
 
 
 **[MOBILE POS](/hardware)**
@@ -49,7 +49,7 @@ Technology applikasi kasir online yang biasa disebut dengan mesin kasir online d
 
   ![Sensor alarm security toko baju butik supermarket](../assets/img/alarm.png)
 
-Alarm sensor membantu mu dalam kebutuhan akan keamanan aset produk produk mu dari tangan pencuri, semakin memudahkan dengan sensitifnya system digunakan, dapat bekerja dengan cepat untuk menangkap langsung pencuri include dengan barang buktinya semakin aman digunakan pada usaha mu. [More info Alarm →](/alarm/2020/04/02/alarm.html)
+Alarm sensor membantu mu dalam kebutuhan akan keamanan aset produk produk mu dari tangan pencuri, semakin memudahkan dengan sensitifnya system digunakan, dapat bekerja dengan cepat untuk menangkap langsung pencuri include dengan barang buktinya semakin aman digunakan pada usaha mu. [More info Alarm →](/alarm/mesin kasir/pos hardware/hardwares/hardware/peralatan kasir/perangkat kasir/alat kasir/2020/04/02/alarm.html)
 
 
 > Pastikan memilih mesin kasir yang disesuaikan dengan kebutuhan usaha dan tentunya disesuaikan dengan jumlah transaksi perhari, touchsceen pos dapat digunakan untuk usaha dengan transaksi ramai,portable dan hybrid tablet pos dipergunakan pada usaha kecil dalam kebutuhan nya, mobile pos untuk anda yang menginginkan online system.

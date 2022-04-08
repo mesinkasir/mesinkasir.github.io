@@ -12,10 +12,10 @@ author:
 tag: aplikasi toko
 description: "Aplikasi toko online Lava apps dengan penjualan grosir dan eceran include laporan lengkap siap pakai web apps."
 ---
-lava apps adalah premium version [laravel](https://laravel.com) php artisan web apps di bangun menggunakan framework laravel semakin menyempurnakan untuk kebutuhan bertransaksi dengan cepat, dan kelebihan dari [aplikasi toko online](/aplikasitoko/2021/01/07/aplikasigorsir-eceran.html) mampu nya digunakan dalam bertransaksi grosir dan eceran secara langsung, dengan system penjualan dalam satu display pos ini akan memudahkan untuk kebutuhan bertransaksi dengan cepat bebas untuk menunjang kebutuhan mu.
+lava apps adalah premium version [laravel](https://laravel.com) php artisan web apps di bangun menggunakan framework laravel semakin menyempurnakan untuk kebutuhan bertransaksi dengan cepat, dan kelebihan dari [aplikasi toko online]({{page.url}}) mampu nya digunakan dalam bertransaksi grosir dan eceran secara langsung, dengan system penjualan dalam satu display pos ini akan memudahkan untuk kebutuhan bertransaksi dengan cepat bebas untuk menunjang kebutuhan mu.
 
 
-### **[MESIN KASIR ONLINE WEB APP](/aplikasitoko/2021/01/07/aplikasigorsir-eceran.html)**
+### **[MESIN KASIR ONLINE WEB APP]({{page.url}})**
 
 ![APLIKASI TOKO ONLINE grosir dan eceran](/assets/img/aplikasi kasir toko penjualan retail gorsir plus website (2).jpg)
 
@@ -23,7 +23,7 @@ Menyempurnakan all in one online system dalam kebutuhan anda, dengan aplikasi ka
 
 
 
-### **[LARAVEL POS WEB APP](/aplikasitoko/2021/01/07/aplikasigorsir-eceran.html)**
+### **[LARAVEL POS WEB APP]({{page.url}})**
 
 ![APLIKASI TOKO ONLINE  grosir dan eceran](/assets/img/aplikasi kasir toko penjualan retail gorsir plus website (3).jpg)
 
@@ -31,7 +31,7 @@ Lava apps memberikan kebebasan tanpa batas akan user accsess memudahkan dalam di
 
 
 
-### **[GET STARTED NOW](/aplikasitoko/2021/01/07/aplikasigorsir-eceran.html)**
+### **[GET STARTED NOW]({{page.url}})**
 
 ![APLIKASI ONLINE toko kasir penjualan grosir dan eceran](/assets/img/aplikasi kasir toko penjualan retail gorsir plus website (1).jpg)
 
@@ -64,7 +64,7 @@ System kerja :
 
 
 
-### **[MODERN POS WEB APP ERA](/aplikasitoko/2021/01/07/aplikasigorsir-eceran.html)**
+### **[MODERN POS WEB APP ERA]({{page.url}})**
 
 ![Aplikasi kasir penjualan toko online terbaru](/assets/img/aplikasi toko mesin kasir online app.jpg)
 

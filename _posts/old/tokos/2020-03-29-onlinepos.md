@@ -13,24 +13,24 @@ tag: aplikasi toko
 meta: "Aplikasi toko online, program toko online online,software toko online,aplikasi kasir online,mesin kasir toko online"
 description: "Aplikasi toko online, program toko online online,software toko online,aplikasi kasir online,mesin kasir toko online"
 ---
-[Online shop toko online website](/aplikasitoko/2020/03/29/onlinepos.html) system include dengan aplikasi kasir online memudahkan dalam setiap aktivitas pekerjaan dan pembukuan yang terintegrasi dengan sempurna, kebutuhan akan pemesanan dan order via website online shop semakin mempercepat transaksi online mu, dan dengan aplikasi toko online memudahkan mu bertransaksi dengan pengunjung yang datang ke toko mu secara langsung , laporan lengkap inventori dan omset profit memudahkan dalam cek laporan pembukuan mu.
+[Online shop toko online website]({{page.url}}) system include dengan aplikasi kasir online memudahkan dalam setiap aktivitas pekerjaan dan pembukuan yang terintegrasi dengan sempurna, kebutuhan akan pemesanan dan order via website online shop semakin mempercepat transaksi online mu, dan dengan aplikasi toko online memudahkan mu bertransaksi dengan pengunjung yang datang ke toko mu secara langsung , laporan lengkap inventori dan omset profit memudahkan dalam cek laporan pembukuan mu.
 
 
 
-### **[ONLINE SHOP TOKO ONLINE WEBSITE](/aplikasitoko/2020/03/29/onlinepos.html)**
+### **[ONLINE SHOP TOKO ONLINE WEBSITE]({{page.url}})**
 
 ![aplikasi toko online shop](/assets/img/aplikasi kasir online shop website (5).jpg)
 
-Dengan hadirnya [online shop toko online website](/aplikasitoko/2020/03/29/onlinepos.html) mu sendiri ,kamu memiliki kontrol penuh atas tata cara transaksi dan order hingga pembayaran dan pengiriman ke pelanggan kamu, dan dengan toko online shop website ini memudahkan pelanggan dalam melakukan order secara langsung via online shop mu include dengan tata cara pembayaran yang kamu terapkan ,kemudian pengisian ID yang berguna untuk login pelanggan sebagai user pada toko online shop mu hingga kebutuhan pengriman produk yang dipesan semakin mempercepat kebutuhan akan order via online shop toko online website mu secara langsung.
+Dengan hadirnya [online shop toko online website]({{page.url}}) mu sendiri ,kamu memiliki kontrol penuh atas tata cara transaksi dan order hingga pembayaran dan pengiriman ke pelanggan kamu, dan dengan toko online shop website ini memudahkan pelanggan dalam melakukan order secara langsung via online shop mu include dengan tata cara pembayaran yang kamu terapkan ,kemudian pengisian ID yang berguna untuk login pelanggan sebagai user pada toko online shop mu hingga kebutuhan pengriman produk yang dipesan semakin mempercepat kebutuhan akan order via online shop toko online website mu secara langsung.
 
 
 
 
-### **[APLIKASI KASIR ONLINE](/aplikasitoko/2020/03/29/onlinepos.html)**
+### **[APLIKASI KASIR ONLINE]({{page.url}})**
 
 ![aplikasi toko online shop](/assets/img/wepos updates.png)
 
-Include dengan [aplikasi toko, aplikasi kasir online](/aplikasitoko/2020/03/29/onlinepos.html) memudahkan dalam bertransaksi secara langsung dengan pelanggan untuk kebutuhan pencatatan pembukuan dan melakukan transaksi kasir dalam operasionalnya.
+Include dengan [aplikasi toko, aplikasi kasir online]({{page.url}}) memudahkan dalam bertransaksi secara langsung dengan pelanggan untuk kebutuhan pencatatan pembukuan dan melakukan transaksi kasir dalam operasionalnya.
 
 
 ![aplikasi toko online shop](/assets/img/aplikasi mesin kasir online shop - pencarian.png)
@@ -51,7 +51,7 @@ Metode transaksi memudahkan pembayaran pelanggan include dengan jumlah nominal k
 Metode percetakan struk kasir semakin kompleks dalam kebtuuhan point of sale mu via percetakan struk kasir sebagai bukti pembayaran pelanggan mu.
 
 
-### **[LAPORAN DETAIL](/aplikasitoko/2020/03/29/onlinepos.html)**
+### **[LAPORAN DETAIL]({{page.url}})**
 
 Tersedia menu laporan laporan detail lengkap dan kompleks untuk kamu pilih berdasarkan kebutuhan laporan yang kamu inginkan semakin memudahkan dalam monitoring pembukuan usaha mu.
 

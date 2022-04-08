@@ -14,11 +14,11 @@ author:
 tag: source code
 description: "Aplikasi pembuatan website Sekolah CMS Sekolah gratis free download"
 ---
-[CMS Website sekolah gratis](/website/2021/01/05/cmssekolah.html) 
+[CMS Website sekolah gratis]({{page.url}}) 
 
 Special dan dedikasi kami untuk kebutuhan sekolah dengan cms sekolah gratis yang sudah terkonsep secara detail untuk kebutuhan sekolah, dengan aplikasi ini maka akan memudahkan pihak sekolah develope modern situs nya. semoga bermanfaat untuk dunia pendidikan dan edukasi ya.
 
-### **[CMS SEKOLAH](/website/2021/01/05/cmssekolah.html)**
+### **[CMS SEKOLAH]({{page.url}})**
 
 ![CMS SEKOLAH GRATIS DOWNLOAD FREE DOWNLOAD](/assets/img/axcora school cms sekolah website gratis free download source code.jpg)
 
@@ -64,7 +64,7 @@ Untuk dokumentasi lengkap penggunaan tersedia pada halaman about sekolah.
 
 Nah semoga membantu untuk dunia pendidikan dan sekolah ya...
 
-Dan misal butuh hosting dan domain sekolah kita juga sediakan plus installasi [cms sekolah](/cmssekolah/2021/01/05/cmssekolah.html) ini secara langsung jika berminat yes,, tentunya dengan harga murah.
+Dan misal butuh hosting dan domain sekolah kita juga sediakan plus installasi [cms sekolah]({{page.url}}) ini secara langsung jika berminat yes,, tentunya dengan harga murah.
 
 Spersifikasi paket online
 + Hosting

@@ -18,14 +18,14 @@ description: "Aplikasi kasir gratis program toko gratis beserta source code full
 
 Source code adalah project yang di develope dan build dengan full code dalam pengembangan aplikasi software dan berbagai project lain nya, adapun source code ini untuk digunakan para developer programer yang membutuhkan referensi dalam proses pembelajaran coding hingga kebutuhan untuk develope dalam penggunaan program kasir program toko secara gratis via source code ini, free download dan dapat di modifikasi sesuai kebutuhan mu dalam penerapan nya.
 
-[Free Download program kasir toko gratis](/sourcecode/2020/05/05/sourcecode.html) include dengan full source code untuk dikembangkan lagi, juga dapat digunakan pada end user khusus nya para UKM dalam kebutuhan untuk implementasi penggunaan dalam menunjang pembukuan nya. tersedia beberapa project pada source code ini dan fokus kebanyakan untuk kebutuhan pembukuan penjualan dan inventori stok management . build dengan coding hingga file exe yang mendukung penginstallan langsung tanpa perlu codding juga tersedia untuk UKM indonesia.
+[Free Download program kasir toko gratis]({{page.url}}) include dengan full source code untuk dikembangkan lagi, juga dapat digunakan pada end user khusus nya para UKM dalam kebutuhan untuk implementasi penggunaan dalam menunjang pembukuan nya. tersedia beberapa project pada source code ini dan fokus kebanyakan untuk kebutuhan pembukuan penjualan dan inventori stok management . build dengan coding hingga file exe yang mendukung penginstallan langsung tanpa perlu codding juga tersedia untuk UKM indonesia.
 
 saat nya beralih ke yang gratis jika sudah cukup dalam menunjang pembukuan mu, dan upgrade ke premium web app jika membutuhkan fitur yang lebih sempurna.
 
-Hello developer time to open source code free coding now !! we have a soruce code project pos point of sale and blog if you needed. easy to install it and simple for use, you can develope and modify the code with your own, we have [full source code for download](/sourcecode/2020/05/05/sourcecode.html) with laravel framework, code igniter, php native and simple blog cms develope using new modern generation javascript like node js , express js integration with new popluar databased mongo DB, and if you need free software POS you can download free software build with JAVA and ms.access. so lets get started download it now and happy codding.
+Hello developer time to open source code free coding now !! we have a soruce code project pos point of sale and blog if you needed. easy to install it and simple for use, you can develope and modify the code with your own, we have [full source code for download]({{page.url}}) with laravel framework, code igniter, php native and simple blog cms develope using new modern generation javascript like node js , express js integration with new popluar databased mongo DB, and if you need free software POS you can download free software build with JAVA and ms.access. so lets get started download it now and happy codding.
 
 
-**[AXCORAPOS FREE VERSION](/sourcecode)**
+**[AXCORAPOS FREE VERSION]({{page.url}})**
 
  ![open soruce code laravel point of sale aplikasi toko gratis free download](/assets/img/software kasir,program kasir,toko minimarket dan apotik expired date (26).jpg)
 
@@ -43,7 +43,7 @@ HOW TO INSTALL :
 for first you need xampp installer on terminal local machine if you work on offline mode dekstop verison, just download xampp and run it, for online mode you just need upload this app on shared hosting on public_html folder or other directori, now for first you must need to create new mysql databased on phpmyadmin , and import sql db file on donwload folder to new mysql db. configure connection and open web app on web browser, get started now login username and password : admin, for easy and fast install check [video installation →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYP5aNeTZ64OOH3Fyak8SNrm)
 
 
-**[LARAVEL POS](/sourcecode)**
+**[LARAVEL POS]({{page.url}})**
 
  ![open soruce code laravel point of sale aplikasi toko gratis free download](/assets/img/laravelpos-freesourcode-aplikasikasirgratis (2).png)
 
@@ -63,7 +63,7 @@ this app is recomended for developer not for end user for installation progress,
 
 
 
-**[TOPOS web app](/sourcecode)**
+**[TOPOS web app]({{page.url}})**
 
  ![open soruce code laravel point of sale aplikasi toko gratis free download](/assets/img/topos11.png)
 
@@ -84,7 +84,7 @@ installation progress just same with clean pos web app, you must install third p
 
 
 
-**[CLEAN POS](/sourcecode)**
+**[CLEAN POS]({{page.url}})**
 
  ![open soruce code point of sale aplikasi toko gratis free download](/assets/img/aplikasi kasir toko gratis free download.png)
 
@@ -103,7 +103,7 @@ HOW TO INSTALL :
 if you using local machine dekstop version or offline mode you just need donwload and copying file on c:/xampp/htdocs folder , and if you install it on shared hosting online just upload on public_html folder or where dircetori your using for develope this web app , For first on offline mode terminal desktop version you need install third party application like xampp for terminal server , after install run xampp server,now download this source code full , copy and extract on httdocs and then create new mysql database on php myadmin , import database from .sql file this source code folder , configure connection on database with your sql database and url, and open your web browser accsess this app and get started now !! username and password is admin. for easy and fast install check [video installation →](https://www.youtube.com/playlist?list=PLQDm6k9_HvYOUsaWg0YmInGuaGo9NRFbk)
 
 
-**[PROGRAM TOKO GRATIS HC BRAVO POS](/sourcecode)**
+**[PROGRAM TOKO GRATIS HC BRAVO POS]({{page.url}})**
 
 
 Program toko gratis free download aplikasi software toko gratis
@@ -138,7 +138,7 @@ HOW TO INSTALL: this modern app using java for run terminal so for first you mus
 
 
 
-**[PROGRAM RESTORAN GRATIS HC BRAVO POS](/sourcecode)**
+**[PROGRAM RESTORAN GRATIS HC BRAVO POS]({{page.url}})**
 
  ![aplikasi RESTORAN gratis](/assets/img/4 software program aplikasi restoran warung rumah makan system.png)
 
@@ -176,7 +176,7 @@ HOW TO INSTALL for easy and fast install check [video installation →](https://
 
 
 
-**[HC ACCESS POS](/sourcecode)**
+**[HC ACCESS POS]({{page.url}})**
 
  ![aplikasi toko gratis](/assets/img/aplikasi toko kasir gratis.png)
 
@@ -190,7 +190,7 @@ for first this app build and run on windows os , and then using ms.accsess for d
 
 
 
-**[NODEX BLOGGING PLATFORM CMS](/sourcecode)**
+**[NODEX BLOGGING PLATFORM CMS]({{page.url}})**
 
  ![BLOG CMS SOFTWARE](/assets/img/new blog cms platform (3).png)
 

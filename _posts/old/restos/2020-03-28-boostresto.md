@@ -11,20 +11,20 @@ tag: aplikasi restoran
 description: "Aplikasi restoran cafe rumah makan,software program kasir , mesin kasir restoran"
 meta: "Aplikasi restoran cafe rumah makan,software program kasir , mesin kasir restoran"
 ---
-Kebutuhan [aplikasi restoran online](/aplikasirestoran/2020/03/28/boostresto.html) mode maupun offline system maka boosterpos adalah solusi terbaik untuk mu, dengan online mode memmudahkan akses via smartphone android iphone hingga mesin kasir windows yang terintegrasi dalam satu based, fitur lengkap master menu makanan dan minuman , inventori stok , penjualan pos kasir, metode transaksi pembayaran cash tunai card hingga online paymnet dan kebutuhan akan laporan detail tersedia pada boosterpos resto app ini.
+Kebutuhan [aplikasi restoran online](/aplikasirestoran/restos/2020/03/28/boostresto.html) mode maupun offline system maka boosterpos adalah solusi terbaik untuk mu, dengan online mode memmudahkan akses via smartphone android iphone hingga mesin kasir windows yang terintegrasi dalam satu based, fitur lengkap master menu makanan dan minuman , inventori stok , penjualan pos kasir, metode transaksi pembayaran cash tunai card hingga online paymnet dan kebutuhan akan laporan detail tersedia pada boosterpos resto app ini.
 
 
 
-### **[APLIKASI RESTORAN MODERN](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[APLIKASI RESTORAN MODERN](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline.png)
 
-Menu utama setelah login memudahkan mu dalam melakukan pekerjaan via [aplikasi restoran cafe rumah makan kuliner](/aplikasirestoran/2020/03/28/boostresto.html) yang dapat diakses via android iphone windows dalam online mode maupun offline mode dengan single standalone system kasir untuk kebutuhan mu, tersedia fitur master menu makanan dan minuman , penjualan kasir point of sale, order untuk cek order dan cetak bill , inventori stok management, paymet cek fitur transaksi cash dan online payment , profit untuk cek laporan detail pendapatan income restoran cafe rumah makan kuliner mu, info untuk panduan via tutorial video dan ebook, backoffice admin dashboard untuk kebutuhan admin, dan log off shutdown keluar dari aplikasi restoran rumah makan cafe.
+Menu utama setelah login memudahkan mu dalam melakukan pekerjaan via [aplikasi restoran cafe rumah makan kuliner](/aplikasirestoran/restos/2020/03/28/boostresto.html) yang dapat diakses via android iphone windows dalam online mode maupun offline mode dengan single standalone system kasir untuk kebutuhan mu, tersedia fitur master menu makanan dan minuman , penjualan kasir point of sale, order untuk cek order dan cetak bill , inventori stok management, paymet cek fitur transaksi cash dan online payment , profit untuk cek laporan detail pendapatan income restoran cafe rumah makan kuliner mu, info untuk panduan via tutorial video dan ebook, backoffice admin dashboard untuk kebutuhan admin, dan log off shutdown keluar dari aplikasi restoran rumah makan cafe.
 
 
 
 
-### **[MENU MAKANAN MINUMAN](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[MENU MAKANAN MINUMAN](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline1 .png)
 
@@ -34,7 +34,7 @@ Fitur menu makanan dan minuman dilengkapi dengan grup menu , kategori menu untuk
 
 
 
-### **[TRANSAKSI PENJUALAN KASIR](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[TRANSAKSI PENJUALAN KASIR](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline6 .png)
 
@@ -45,7 +45,7 @@ Fitur penjualan kasir point of sale dengan kemudahan dalam pencatatan keterangan
 
 
 
-### **[LIST BILL & ORDER](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[LIST BILL & ORDER](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline7 .png)
 
@@ -56,7 +56,7 @@ List bill dan order memudakan dalam cek daftar bill untuk melakukan pembayaran p
 
 
 
-### **[LIST LAPORAN PEMBAYARAN](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[LIST LAPORAN PEMBAYARAN](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline11 .png)
 
@@ -67,7 +67,7 @@ List laporan pembayaran memudahkan dalam cek type transaksi pelanggan pada resto
 
 
 
-### **[CEK LAPORAN OMSET DETAIL](/aplikasirestoran/2020/03/28/boostresto.html)**
+### **[CEK LAPORAN OMSET DETAIL](/aplikasirestoran/restos/2020/03/28/boostresto.html)**
 
 ![aplikasi restoran rumah makan cafe](/assets/img/mesinkasirrrestorancafeonline10 .png)
 

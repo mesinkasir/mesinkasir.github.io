@@ -45,7 +45,7 @@ home:
   title8: APK Android.
   content8: Sempurnakan dengan APK android dalam bekerja sebagai optional APK untuk kebutuhan terbaik backend dan frontend.
   title9: HUBUNGI KAMI.
-  content9: Hubungi kami untuk konsultasi dan order terminal device pos ini.
+  content9: Hubungi kami untuk konsultasi dan informasi terminal device pos ini.
   url91: /oldschool
   url92: /blog
   url93: /start.html
@@ -53,7 +53,9 @@ home:
   title92: Blog
   title93: Start
 
+# ganti kalau mau push repo github
 theme: minima
+# theme: dablogger
 
 plugins:
  - jekyll-feed

@@ -2,7 +2,6 @@
 layout: post
 title: "Touchscreen pos all in one point of sale mesin kasir layar sentuh terbaru modern"
 categories: 
-- alarm
 - mesin kasir
 - pos hardware
 - hardwares
