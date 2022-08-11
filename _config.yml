@@ -58,5 +58,6 @@ theme: minima
 #theme: dablogger
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
