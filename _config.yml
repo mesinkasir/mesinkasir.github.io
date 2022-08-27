@@ -22,7 +22,7 @@ minima:
 home:
   desc: Mesin kasir toko minimarket supermarket. Mesin kasir restoran cafe kuliner. Mesin kasir online.
   title: Mesin Kasir
-  cover: assets/img/online%20kasir.png
+  cover: assets/img/online%20kasir.webp
   description: Solusi kebutuhan pos point of sale set mu.
   content: Temukan kemudahan dan mobile dengan menggunakan mesin kasir online maupun offline desktop mode modern device terminal pos kami.
   title1: MODERN POS TERBARU.
@@ -54,8 +54,8 @@ home:
   title93: Start
 
 # ganti kalau mau push repo github
-theme: minima
-#theme: dablogger
+# theme: minima
+theme: dablogger
 
 plugins:
   - jekyll-feed
