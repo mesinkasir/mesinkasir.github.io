@@ -54,8 +54,8 @@ home:
   title93: Get Start
 
 # ganti kalau mau push repo github
-# theme: minima
-theme: dablogger
+theme: minima
+# theme: dablogger
 
 plugins:
   - jekyll-feed
