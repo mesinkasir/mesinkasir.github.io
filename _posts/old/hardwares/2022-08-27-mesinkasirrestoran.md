@@ -13,7 +13,7 @@ categories:
 - paket mesin kasir
 - tablet waiters
 - kitchen display
-cover: https://mesinkasir.github.io/assets/img/mesinkasirestoran.webp
+cover: /assets/img/mesinkasirrestoran.webp
 author:
 - mesin kasir
 tag: mesinkasirrestoran

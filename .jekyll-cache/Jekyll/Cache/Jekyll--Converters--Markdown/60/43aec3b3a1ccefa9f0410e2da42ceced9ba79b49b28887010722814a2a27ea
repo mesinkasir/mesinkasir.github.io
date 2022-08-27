@@ -1,9 +1,9 @@
-I"/<div class="container">  
+I"“<div class="container">  
   <div class="row py-3 justify-content-center">
  
   <div class="col-md-3 p-1 col-12">
       <a class="card p-1 text-center bg-light text-dark" href="/mesinkasirtoko.html">
-      <img class="img-fluid card" alt="Super keren wajib pakai mesin kasir untuk toko minimarket barcode lengkap !!" src="https://mesinkasir.github.io//assets/img/mesinkasirtokobarcode.webp" />
+      <img class="img-fluid card" alt="Super keren wajib pakai mesin kasir untuk toko minimarket barcode lengkap !!" src="/assets/img/mesinkasirtokominimarket.webp" />
       <main class="card-body p-1">
       <h3 class="card-title info">Super keren wajib pakai mesin kasir untuk toko minimarket barcode lengkap !!</h3>
       <p class="card-content info"><small>Solusi real mesin kasir untuk menunjang usaha toko dan minimarket dengan barcode system teknologi modern terbaru kuat awet dan tahan lama untuk toko minimarket.<br />mesin kasir</small></p>
@@ -13,7 +13,7 @@
     
   <div class="col-md-3 p-1 col-12">
       <a class="card p-1 text-center bg-light text-dark" href="/mesinkasirrestoran.html">
-      <img class="img-fluid card" alt="Mesin Kasir Restoran Cafe Rumah makan" src="https://mesinkasir.github.io//assets/img/mesinkasirestoran.webp" />
+      <img class="img-fluid card" alt="Mesin Kasir Restoran Cafe Rumah makan" src="/assets/img/mesinkasirrestoran.webp" />
       <main class="card-body p-1">
       <h3 class="card-title info">Mesin Kasir Restoran Cafe Rumah makan</h3>
       <p class="card-content info"><small>Mudah cepat dengan Tablet waiters - Kitchen Display - Kasir -Admin lengkap dalam satu mesin kasir restoran cafe rumah makan kuliner mu.<br />mesin kasir</small></p>
@@ -22,18 +22,8 @@
       </div>
     
   <div class="col-md-3 p-1 col-12">
-      <a class="card p-1 text-center bg-light text-dark" href="/mesinkasirandroid.html">
-      <img class="img-fluid card" alt="Mesin Kasir Online" src="https://mesinkasir.github.io//assets/img/aplikasiandroidpos.webp" />
-      <main class="card-body p-1">
-      <h3 class="card-title info">Mesin Kasir Online</h3>
-      <p class="card-content info"><small>Dunia dalam genggaman mu - retail toko minimarket - restoran cafe rumah makan - dengan menggunakan Mesin Kasir Online<br />mesin kasir</small></p>
-      </main>
-      </a>
-      </div>
-    
-  <div class="col-md-3 p-1 col-12">
-      <a class="card p-1 text-center bg-light text-dark" href="/mesinkasirandroid.html">
-      <img class="img-fluid card" alt="Mesin Kasir Online" src="https://mesinkasir.github.io/assets/img/aplikasiandroidpos.webp" />
+      <a class="card p-1 text-center bg-light text-dark" href="/mesinkasironline.html">
+      <img class="img-fluid card" alt="Mesin Kasir Online" src="/assets/img/mesinkasironline.webp" />
       <main class="card-body p-1">
       <h3 class="card-title info">Mesin Kasir Online</h3>
       <p class="card-content info"><small>Dunia dalam genggaman mu - retail toko minimarket - restoran cafe rumah makan - dengan menggunakan Mesin Kasir Online<br />mesin kasir</small></p>

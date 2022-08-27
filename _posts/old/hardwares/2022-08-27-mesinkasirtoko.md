@@ -11,7 +11,7 @@ categories:
 - barcode
 - mesin kasir lengkap
 - paket mesin kasir
-cover: https://mesinkasir.github.io/assets/img/mesinkasirtokobarcode.webp
+cover: /assets/img/mesinkasirtokominimarket.webp
 author:
 - mesin kasir
 tag: mesinkasirtoko

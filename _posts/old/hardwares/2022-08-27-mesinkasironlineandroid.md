@@ -11,7 +11,7 @@ categories:
 - mesin kasir android
 - cloud
 - online
-cover: https://mesinkasir.github.io//assets/img/aplikasiandroidpos.webp
+cover: /assets/img/mesinkasironline.webp
 author:
 - mesin kasir
 tag: mesinkasironline
