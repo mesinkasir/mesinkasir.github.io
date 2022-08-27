@@ -1,9 +1,16 @@
-@import url('http://fonts.cdnfonts.com/css/swiming-frog');html,body,p{font:100 1.315rem/1.405rem 'Swiming Frog',sans-serif}{margin:0;font-family:'Swiming Frog',sans-serif}
-@font-face {
-    font-family: 'Swiming Frog';
-    font-style: normal;
-    font-weight: 200;
-    src: local('Swiming Frog'), url('https://fonts.cdnfonts.com/s/16554/SwimingFrog-Regular.woff') format('woff');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+html,
+body {
+  font-family: 'Questrial', sans-serif;
+  font-size: 20px;
+}
+
+a:link {
+	text-decoration: none;
+}
+img {
+  max-width: 100%;
 }
 a:link {
   text-decoration: none;
@@ -25,8 +32,8 @@ img {
 }
 
 .info {
-  font: 100 0.915rem/0.985rem 'Swiming Frog', sans-serif
+  font: 100 0.915rem/0.985rem 'Questrial', sans-serif;
 }
 .footer {
-  font: 100 1.015rem/1.105rem 'Swiming Frog', sans-serif
+  font: 100 1.015rem/1.105rem 'Questrial', sans-serif;
 }
