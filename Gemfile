@@ -12,5 +12,6 @@ gem "wdm", "~> 0.1.0"
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
+  gem 'jekyll-paginate'
   gem 'jekyll-seo-tag'
 end
