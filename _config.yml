@@ -56,8 +56,10 @@ home:
 # ganti kalau mau push repo github
 theme: minima
 # theme: dablogger
-
+paginate: 5
+paginate_path: "/blogs/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
