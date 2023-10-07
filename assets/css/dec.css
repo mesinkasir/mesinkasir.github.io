@@ -7,11 +7,16 @@ body {
 }
 
 a:link {
-	text-decoration: none;
+	text-decoration: none; color:black;
 }
 img {
   max-width: 100%;
+  border-radius: 12px; margin-bottom: 5px; margin-top: 5px;
 }
+iframe,.ser {
+  border-radius: 12px 12px 12px 12px; margin-bottom: 35px; margin-top: 5px;
+}
+::selection {color: white; background: black;}
 a:link {
   text-decoration: none;
   color: black;

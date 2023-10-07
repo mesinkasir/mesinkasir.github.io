@@ -1,0 +1,11 @@
+nav:
+ - name: Home
+   link: /
+ - name: Blog
+   link: /blog
+ - name: Menu
+   link: /categories.html
+ - name: Hire
+   link: https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll
+
+

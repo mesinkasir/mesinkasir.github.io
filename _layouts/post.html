@@ -1,40 +1,56 @@
 ---
-layout: default
+layout: article
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  <img class="img-fluid" alt="{{ page.title }}" width="100%" src="{{page.cover}}"/>
+<article>
+<div class="col-md-11 mx-auto p-3">
+{% if page.cover %}<img class="img-fluid" alt="{{ page.title }}" width="100%" src="{{page.cover}}"/>{% endif %}
+</div>
 <div class="container">  
 <div class="row p-3">
-<div class="col-md-12 p-3">
-  <header class="post-header">
-  <h1><strong><a href="{{ page.url }}">{{ page.title | escape }}</a></strong></h1>
-  {{ page.tag }}
-    <p class="post-meta">
-	
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
-      {%- endif -%}
-	  
-      </p>
-  </header>
+<div class="col-md-10 mx-auto p-3">
+<header class="post-header">
+<h1><strong><a href="{{ page.url }}">{{ page.title | escape }}</a></strong></h1>
+<p>
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+{{ page.date | date: date_format }}
+</time>
+{%- if page.modified_date -%}
+~ 
+{%- assign mdate = page.modified_date | date_to_xmlschema -%}
+<time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+{{ mdate | date: date_format }}
+</time>
+{%- endif -%}
+</p>
+<p><small>  {% for category in page.categories %}
+    {% capture category_name %}{{ category }}{% endcapture %}
+    <a href="{{site.baseurl}}/categories.html#{{category}}">{{ category_name }}&nbsp;</a> ·
+  {% endfor %}  </small></p>
+<p><span>
+{% for tag in page.tags %}
+{% capture tag_name %}{{ tag }}{% endcapture %}
+<a href="{{site.baseurl}}/tag.html#{{tag}}"><code class="btn btn-dark text-white me-1"><nobr>#{{ tag_name }}</nobr></code>&nbsp;</a>
+{% endfor %}
+</span></p>
+</header>
+{{ content }}
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+<div class="row mt-5 mb-5">
+<div class="col-md-6 col-6 text-start">
+{% if page.previous.url %}
+<a href="{{page.previous.url}}" class="text-start  btn btn-light ser">&laquo; Previous</a>
+<!-- <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a> -->
+{% endif %}
+</div>
+<div class="col-md-6 col-6 text-end">
+{% if page.next.url %}	
+<a href="{{page.next.url}}" class="text-end btn btn-light ser">Next &raquo;</a>
+<!-- <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a> -->
+{% endif %}
+</div>
+</div> 
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </div>
 </div>
 </div>

@@ -1,0 +1,8 @@
+<body>
+<div class="container">
+<nav class="nav justify-content-end">
+{% for nav in site.data.widget.nav %}
+<a class="nav-link" href="{{nav.link}}"><strong>{{nav.name}}</strong></a>
+{% endfor %}
+</nav>
+</div>

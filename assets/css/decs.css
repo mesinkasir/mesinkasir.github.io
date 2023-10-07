@@ -2,19 +2,22 @@
 
 html,
 body {
-  font: 100 1.515rem/1.705rem 'Questrial', sans-serif;
+  font: 100 1.515rem/1.705rem 'Questrial', sans-serif; 
 }
-
 .info {
   font: 100 0.815rem/0.905rem 'Questrial', sans-serif;
 }
 .footer {
   font: 100 1.015rem/1.105rem 'Questrial', sans-serif;
 }
-
 a:link {
 	text-decoration: none;
 }
 img {
   max-width: 100%;
+  border-radius: 12px; margin-bottom: 5px; margin-top: 5px;
 }
+iframe,.ser {
+  border-radius: 12px 12px 12px 12px; margin-bottom: 35px; margin-top: 5px;
+}
+::selection {color: white; background: black;}

@@ -1,7 +1,6 @@
 ---
 layout: start
-title: Mesin Kasir
-description: mesin kasir,aplikasi kasir toko, aplikasi restoran,pembuatan website all in one.
-cover: /assets/img/kasirgithub.png
+title: Modern website dan aplikasi kasir toko restoran online.
+description: Mesin kasir toko minimarket, mesin kasir restoran cafe rumah makan include aplikasi toko, aplikasi restoran integrasi website app.
+cover: /assets/img/webapp.svg
 ---
-

@@ -1,0 +1,10 @@
+{%- include widget/heads.html -%}
+{%- include widget/nav.html -%}
+<header class="col-md-12 p-3 text-center">
+<h1><strong><a href="{{page.url}}">{{site.title}} BLOG</a></strong></h1>
+<h2 class="lead">Update Post {{site.description}}</h2>
+</header>
+<main class="container">
+{{ content }}
+</main>
+{%- include widget/footers.html -%}
