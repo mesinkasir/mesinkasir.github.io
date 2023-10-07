@@ -10,8 +10,7 @@ author:
   map: https://goo.gl/maps/EpcU3m3ryPMihifx7
 cover: /assets/img/APLIKASI MESIN KASIR ONLINE.png
 future: true
-#url: https://mesinkasir.github.io
-url: ''
+url: https://mesinkasir.github.io
 baseurl: ''
 collections:
   pages:
